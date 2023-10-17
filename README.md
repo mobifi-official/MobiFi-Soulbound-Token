@@ -9,9 +9,11 @@ There is only *one owner* role, but there can be multiple Minter role, Burner ro
 
 We don’t have multiple Owner role, because Owner can also remove other people’s owner role, which is risky. 
 
-**Owner** role will be controlled by @Yudi Xu but replaced by a multi-sig wallet when the community gets bigger. 
+😎 **Owner** role will be controlled by @Yudi Xu but replaced by a multi-sig wallet when the community gets bigger. 
 
-**Minter** role will be assigned to the most active and original teams of the DAO, and will be replaced to multi-sig wallet after that.
+🤑 **Minter** role will be assigned to the most active and original teams of the DAO, and will be replaced to multi-sig wallet after that.
+
+📍 **token address**: https://polygonscan.com/token/0x5060C083445822EEcC8ca6686EacF52D21893aeB
 
 Total #MSBT Supply: 1,000,000,000
 
